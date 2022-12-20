@@ -1,0 +1,20 @@
+maintainer:
+description: The KDE calendar utility library 
+tier: 3
+type: functional
+platforms:
+    - name: Linux
+    - name: FreeBSD
+    - name: Windows
+    - name: MacOSX
+    - name: Android
+portingAid: false
+deprecated: false
+release: false
+libraries:
+ - qmake: KCalUtils
+   cmake: "KF5::CalendarUtils"
+cmakename: KF5CalendarUtils
+
+public_lib: true
+group: kdepim

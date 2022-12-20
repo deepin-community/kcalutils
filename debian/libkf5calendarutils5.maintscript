@@ -1,0 +1,2 @@
+rm_conffile /etc/xdg/kcalutils.categories 4:20.04.1-2~
+rm_conffile /etc/xdg/kcalutils.renamecategories 4:20.04.1-2~

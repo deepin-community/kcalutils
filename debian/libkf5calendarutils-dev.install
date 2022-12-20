@@ -1,0 +1,6 @@
+usr/include/KF5/KCalUtils/KCalUtils/
+usr/include/KF5/KCalUtils/kcalutils/
+usr/include/KF5/kcalutils_version.h
+usr/lib/*/cmake/KF5CalendarUtils/
+usr/lib/*/libKF5CalendarUtils.so
+usr/lib/*/qt5/mkspecs/modules/qt_KCalUtils.pri

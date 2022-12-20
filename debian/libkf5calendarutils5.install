@@ -1,0 +1,6 @@
+usr/lib/*/grantlee/*/kcalendar_grantlee_plugin.so
+usr/lib/*/libKF5CalendarUtils.so.5
+usr/lib/*/libKF5CalendarUtils.so.5.*
+usr/share/locale/
+usr/share/qlogging-categories5/kcalutils.categories
+usr/share/qlogging-categories5/kcalutils.renamecategories
